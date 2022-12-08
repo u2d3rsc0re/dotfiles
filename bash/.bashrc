@@ -26,4 +26,3 @@ export QT_QPA_PLATFORMTHEME=qt5ct
 
 set -o vi
 
-source /usr/share/nvm/init-nvm.sh
